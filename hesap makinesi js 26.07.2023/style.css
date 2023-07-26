@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+#hesapM{
+
+margin: 0 auto;
+height: auto;
+width: 400px;
+background-color: antiquewhite;
+border: 2px solo;
+border-radius: 5px;
+padding: 10px;
+}
+#gösterge {
+    text-align: center;
+    padding: 80px 0px 80px 0px;
+   
+}
+#result{
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    width: 80%;
+    text-align: right;
+    word-wrap: break-word;
+    font-size: 40px;
+}
+#buttons {
+    text-align: center;
+}
+button{
+    
+    width: 100px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 5px;
+    background-color: rgb(193, 153, 229);
+    outline: none;
+}
